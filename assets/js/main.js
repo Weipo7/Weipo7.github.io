@@ -80,7 +80,7 @@ function loadEventListeners() {
 var timeTo = document.getElementById('time-to').value,
 		date,
 		now = new Date(),
-		newYear = new Date("January 16, 2022 13:00:00").getTime(),
+		newYear = new Date("February 6, 2022 13:00:00").getTime(),
 		startTimer = '';
 
 // calculate date, hour, minute and second
